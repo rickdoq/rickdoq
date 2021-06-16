@@ -1,7 +1,7 @@
 # Um pouco sobre mim
 - 👋 Olá, eu sou Robert. Também conhecido como RickDOQ.
 - 👀 Meu foco principal é aprender e melhorar o desenvolvimento de bots para discord.
-- 🌱 Penso em estudar html e css para que eu possa fazer sites.
+- 🌱 Estou estudando HTML/CSS.
 - 📫 Você pode falar comigo no discord: RickDOQ#5026
 - 🤖 Meu projeto de bot atual é a [Noeru Bot](https://github.com/rickdoq/Noeru).
 
