@@ -5,7 +5,4 @@
 - 📫 Você pode falar comigo no discord: RickDOQ#5026
 - 🤖 Meu projeto de bot atual é a [Noeru Bot](https://github.com/rickdoq/Noeru).
 
-<!---
-rickdoq/rickdoq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![RickDOQ github stats](https://github-readme-stats.vercel.app/api?username=rickdoq&theme=dark&show_icons=true&count_private=true)](https://github.com/rickdoq)
