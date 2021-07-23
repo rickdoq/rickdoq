@@ -1,7 +1,7 @@
 ### Um pouco sobre mim:
-- 👋 Olá, eu sou Robert. Também conhecido como RickDOQ.
-- 👀 Meu foco principal é aprender e melhorar o desenvolvimento Front End.
-- 🌱 Estou estudando HTML/CSS puro.
+- 🙋🏻‍♂️ Olá, eu sou Robert. Também conhecido como RickDOQ.
+- 🖥️ Meu foco principal é aprender e melhorar o desenvolvimento Front End.
+- 📚 Estou estudando HTML/CSS puro.
 - 📫 Você pode falar comigo no discord: RickDOQ#5026
 
 ### Projetos Atuais:
