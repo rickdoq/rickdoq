@@ -7,8 +7,6 @@
 ### Projetos Atuais:
 
 - [Meu portifolio](https://github.com/rickdoq/Portfolio-Robert)
-- [Noeru Bot (Bot Discord)](https://github.com/rickdoq/Noeru)
-- [LGBTQIA WebSite](https://github.com/rickdoq/LGBTQIA)
 
 ____
 [![RickDOQ github stats](https://github-readme-stats.vercel.app/api?username=rickdoq&theme=dark&show_icons=true&count_private=true)](https://github.com/rickdoq)
