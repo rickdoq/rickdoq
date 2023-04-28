@@ -1,7 +1,7 @@
 ### Um pouco sobre mim:
 - 🙋🏻‍♂️ Olá, eu sou Robert. Também conhecido como RickDOQ.
 - 🖥️ Atualmente sei programar em JS e em Node. ( Também sei HTML/CSS )
-- 📚 Estou estudando Kotlin.
+- 📚 Estou estudando Portugol.
 - 📫 Você pode falar comigo no discord: RickDOQ#5026
 
 ### Projetos Atuais:
