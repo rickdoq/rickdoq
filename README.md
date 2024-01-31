@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=288ebe&height=120&section=header"/>
-
 ### Um pouco sobre mim:
 - 🙋🏻‍♂️ Olá, eu sou Robert. Também conhecido como RickDOQ.
 - 🖥️ Atualmente sei programar em JS e em Node. ( Também sei HTML/CSS )
@@ -10,7 +8,8 @@
 
 - [Meu portifolio](https://github.com/rickdoq/Portfolio-Robert)
 
-____
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=288ebe&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=460&lines=Hello%2C+My+name+is+Robert+Santos+Freire;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!)](https://git.io/typing-svg)
 
@@ -23,7 +22,7 @@ ____
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rickdoq&bg_color=0d1117&color=288ebe&line=ece7e4&point=7da8bb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickdoq&layout=compact&hide_border=true&title_color=288ebe&text_color=7da8bb&bg_color=0d1117" />
+  <img width="90%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickdoq&layout=compact&hide_border=true&title_color=288ebe&text_color=7da8bb&bg_color=0d1117" />
 </div>
 
  
