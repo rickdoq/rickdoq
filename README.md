@@ -14,4 +14,6 @@ ____
 
 [![RickDOQ github stats](https://github-readme-stats.vercel.app/api?username=rickdoq&theme=dark&show_icons=true&count_private=true)](https://github.com/rickdoq)
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={rickdoq}&theme={Dark}
+
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/RickDOQ)](https://youtube.com/c/RickDOQ)
