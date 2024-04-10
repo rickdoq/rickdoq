@@ -6,7 +6,7 @@
 
 
 ## 💫 About Me:
-🙋🏻‍♂️ Olá, eu sou Robert. Também conhecido como RickDOQ.<br>🖥️ Atualmente sei programar em JS e em Node. ( Também sei HTML/CSS )<br>📚 Estou estudando Portugol.<br>📫 Você pode falar comigo no discord: RickDOQ#5026
+🙋🏻‍♂️ Olá, eu sou Robert. Também conhecido como RickDOQ.<br>🖥️ Atualmente sei programar em JS.<br>📚 Estou cursando Ciências da Computação.<br>📫 Você pode falar comigo no discord: RickDOQ#5026
 
 
 ## 🌐 Socials:
